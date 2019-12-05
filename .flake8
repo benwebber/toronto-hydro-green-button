@@ -1,0 +1,4 @@
+[flake8]
+ignore =
+  # Black enforces reasonable line lengths.
+  E501
